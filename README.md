@@ -43,8 +43,6 @@ Please view the live file here: https://salllym.github.io/Belly-Button-Biodivers
 
 6. Update all of the plots any time that a new sample is selected.
 
-![hw](Images/hw02.png)
-
 ## Challenge (Optional)
 
 The following task is advanced and therefore optional.
@@ -60,4 +58,6 @@ The following task is advanced and therefore optional.
 ## Deployment
 
 Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo.
+
+![hw](Images/hw02.png)
 
