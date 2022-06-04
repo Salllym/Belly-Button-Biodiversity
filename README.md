@@ -4,12 +4,13 @@ Data Analysis to build an interactive dashboard exploring the Belly Button Biodi
 Please view the live file here:
 
 
-![Bacteria by filterforge.com](Images/bacteria.jpg)
 ## Background
 
 Build an interactive dashboard to explore the [Belly Button Biodiversity dataset](http://robdunnlab.com/projects/belly-button-biodiversity/), which catalogs the microbes that colonize human navels.
 
 The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
+
+Please view the live file here:
 
 ## Ojective
 
@@ -60,9 +61,3 @@ The following task is advanced and therefore optional.
 
 Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo.
 
-## Observations
-Use the interactive charts below to explore the dataset. Select a test subject ID number in a dropdown menu to see the relative sample results.
-
-The bubble chart represents a whole range of microbial species found in a sample of a particular test subject. Hovering over each bubble shows bacteria name with its value and its OTU ID number (for better experience, select “Show closest data on hover” tool from a top right corner of a chart). In this study, OTU means operational taxonomic unit.
-
-The bar chart demonstrates 10 dominant microbial species for a selected test subject. Hover over each bar to see scientific name of a bacteria and its sample value.
